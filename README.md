@@ -19,8 +19,6 @@
 
 <hr />
 
-<p align="center">Github Profile Widgets</p>
-
 <p align="center">
   <a href="https://github.com/antonkomarev/github-profile-views-counter"><!--
     --><img src="https://komarev.com/ghpvc/?username=KernelDeimos" /><!--
@@ -28,9 +26,4 @@
   <a href="https://shields.io/badges/static-badge"><!--
     --><img src="https://img.shields.io/badge/status-building%20Puter's%20backend-0010d8" /><!--
   --></a>
-  <br />
-  <a href="https://github.com/anuraghazra/github-readme-stats"><!--
-    --><img src="https://github-readme-stats.vercel.app/api?username=KernelDeimos&theme=transparent" /><!--
-  --></a>
-
 </p>
