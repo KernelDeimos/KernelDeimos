@@ -1,6 +1,5 @@
 <p align="center">
   <h1>Hi, I'm Eric</h1>
-  I building cool stuff at Puter Technologies Inc., and slowly (but surely) working on getting some articles about software development uploaded.
   In my source repositories you'll find various personal projects, some from as early as when I was in highschool.
 </p>
 
