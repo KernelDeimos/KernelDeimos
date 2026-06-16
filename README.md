@@ -5,7 +5,6 @@
 
 <hr />
 
-<p align="center">Puter Links</p>
 <p align="center">
     <a href="https://puter.com](https://www.linkedin.com/in/ericalexdube">LinkedIn</a>
     ·
