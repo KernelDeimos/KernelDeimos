@@ -6,7 +6,7 @@
 <hr />
 
 <p align="center">
-    <a href="https://puter.com](https://www.linkedin.com/in/ericalexdube">LinkedIn</a>
+    <a href="https://www.linkedin.com/in/ericalexdube">LinkedIn</a>
     ·
     <a href="https://ericdube.com">My Wbsite</a>
 </p>
