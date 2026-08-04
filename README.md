@@ -8,7 +8,7 @@
 <p align="center">
     <a href="https://www.linkedin.com/in/ericalexdube">LinkedIn</a>
     ·
-    <a href="https://ericdube.com">My Wbsite</a>
+    <a href="https://ericdube.com">My Website</a>
 </p>
 
 <hr />
